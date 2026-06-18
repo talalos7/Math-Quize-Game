@@ -16,8 +16,8 @@ A simple console-based math game built with C++.
 
 ## Screenshot
 
-![Math Quiz Game](Images/GameScreen.png)
-![Math Quiz Game](Images/GameScreen2.png)
+![Math Quiz Game](Images/GamePlayWin.png)
+![Math Quiz Game](Images/GamePlayFails.png)
 
 
 ## How to Run
