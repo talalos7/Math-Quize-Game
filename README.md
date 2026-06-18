@@ -14,12 +14,6 @@ A simple console-based math game built with C++.
 - C++
 - Object-Oriented Programming (OOP)
 
-## Screenshot
-
-![Math Quiz Game](Images/GamePlayWin.png)
-![Math Quiz Game](Images/GamePlayFails.png)
-
-
 ## How to Run
 1. Clone the repository.
 2. Open the project in Visual Studio.
