@@ -3,18 +3,21 @@
 A simple console-based math game built with C++.
 
 ## Features
-- Addition questions
-- Subtraction questions
-- Multiplication questions
-- Division questions
+- Addition, Subtraction, Multiplication & Division questions
 - Random question generation
 - Score tracking
+- Instant feedback
 
-## Technologies Used
+## Technologies
 - C++
-- Object-Oriented Programming (OOP)
+- OOP
+
+  ## Screenshots
+
+![Correct Answer](images/GamePlay-RightAnswers.png)
+![Wrong Answer](images/GamePlay-WrongAnswers.png)
 
 ## How to Run
-1. Clone the repository.
-2. Open the project in Visual Studio.
-3. Build and run the project.
+1. Clone the repository
+2. Open in Visual Studio
+3. Build and run
